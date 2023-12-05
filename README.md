@@ -1,1 +1,1 @@
-# deg to cel convertor
+# F to cel convertor
